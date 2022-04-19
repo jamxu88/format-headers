@@ -1,0 +1,26 @@
+{
+  "name": "format-headers",
+  "version": "1.0.0",
+  "description": "Easily format HTTP fetch headers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamxu88/format-headers.git"
+  },
+  "keywords": [
+    "http",
+    "fetch",
+    "headers",
+    "format"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamxu88/format-headers/issues"
+  },
+  "homepage": "https://github.com/jamxu88/format-headers#readme"
+}
